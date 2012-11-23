@@ -1,0 +1,971 @@
+TNavigateImageTable
+v7
+r0
+t333887846.017243
+cCheck dependencies
+cProcessInfoPlistFile "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/Info.plist" NavigateImageTable-Info.plist
+cCompileXIB "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/MainWindow.xib"
+cCpResource build/Debug-iphonesimulator/NavigateImageTable.app/greece.png greece.png
+cCpResource build/Debug-iphonesimulator/NavigateImageTable.app/greenland.png greenland.png
+cCpResource build/Debug-iphonesimulator/NavigateImageTable.app/iceland.png iceland.png
+cCpResource build/Debug-iphonesimulator/NavigateImageTable.app/ireland.png ireland.png
+cCpResource build/Debug-iphonesimulator/NavigateImageTable.app/newzealand.png newzealand.png
+cCpResource build/Debug-iphonesimulator/NavigateImageTable.app/norway.png norway.png
+cCpResource build/Debug-iphonesimulator/NavigateImageTable.app/rome.png rome.png
+cCpResource build/Debug-iphonesimulator/NavigateImageTable.app/switzerland.png switzerland.png
+cProcessPCH /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigateImageTable_Prefix-alvbdvtlnrzgxjdvbsghntopzfbn/NavigateImageTable_Prefix.pch.gch NavigateImageTable_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/main.o "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/NavigateImageTableAppDelegate.o "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/Classes/NavigateImageTableAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/CountriesViewController.o "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/Classes/CountriesViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/FlagViewController.o "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/Classes/FlagViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/NavigateImageTable" normal i386
+cGenerateDSYMFile "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app.dSYM" "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/NavigateImageTable"
+cTouch "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004D9EE41F0000000000000110
+t1302258719
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/Classes/CountriesViewController.h
+c000000004DCB78AB0000000000000192
+t1305180331
+s402
+i<UIKit/UIKit.h>
+i"FlagViewController.h"
+
+N/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/Classes/CountriesViewController.m
+c000000004DD1F3D0000000000000097E
+t1305605072
+s2430
+i"CountriesViewController.h"
+
+N/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/Classes/FlagViewController.h
+c000000004DCB81E60000000000000130
+t1305182694
+s304
+i<UIKit/UIKit.h>
+
+N/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/Classes/FlagViewController.m
+c000000004DD0CCB70000000000000352
+t1305529527
+s850
+i"FlagViewController.h"
+
+N/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/Classes/NavigateImageTableAppDelegate.h
+c000000004DD0C918000000000000028B
+t1305528600
+s651
+i<UIKit/UIKit.h>
+i"CountriesViewController.h"
+
+N/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/Classes/NavigateImageTableAppDelegate.m
+c000000004DD0C96600000000000003D4
+t1305528678
+s980
+i"NavigateImageTableAppDelegate.h"
+
+N/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/MainWindow.xib
+c000000004DCB4A3A000000000000213F
+t1305168442
+s8511
+
+N/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/NavigateImageTable_Prefix.pch
+c000000004DCB4A3A00000000000000CD
+t1305168442
+s205
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app
+t1305529460
+s476
+
+N/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app.dSYM
+t1305529460
+s102
+
+N/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/Info.plist
+t1305168674
+s641
+
+N/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/MainWindow.nib
+t1305168677
+s995
+
+N/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/NavigateImageTable
+t1305529460
+s24064
+
+N/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/PkgInfo
+t1305168674
+s8
+
+N/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/greece.png
+t1305179955
+s1731
+
+N/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/greenland.png
+t1305179955
+s2365
+
+N/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/iceland.png
+t1305179955
+s1483
+
+N/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/ireland.png
+t1305179955
+s1011
+
+N/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/newzealand.png
+t1305179955
+s3706
+
+N/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/norway.png
+t1305179955
+s3350
+
+N/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/rome.png
+t1305179955
+s2916
+
+N/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/switzerland.png
+t1305179955
+s3257
+
+N/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/CountriesViewController.o
+t1305529460
+s50964
+
+N/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/FlagViewController.o
+t1305529460
+s40500
+
+N/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/NavigateImageTable.LinkFileList
+c000000004DD0BEB500000000000002EE
+t1305525941
+s750
+
+N/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/NavigateImageTableAppDelegate.o
+t1305529341
+s53288
+
+N/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/main.o
+t1305525946
+s6360
+
+N/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/greece.png
+c000000004DC8B49D00000000000006C3
+t1304999069
+s1731
+
+N/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/greenland.png
+c000000004DC8B4AE000000000000093D
+t1304999086
+s2365
+
+N/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/iceland.png
+c000000004DC8B4BE00000000000005CB
+t1304999102
+s1483
+
+N/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/ireland.png
+c000000004DC8B4CB00000000000003F3
+t1304999115
+s1011
+
+N/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/main.m
+c000000004DCB4A3A000000000000016F
+t1305168442
+s367
+i<UIKit/UIKit.h>
+
+N/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/newzealand.png
+c000000004DC8B4D90000000000000E7A
+t1304999129
+s3706
+
+N/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/norway.png
+c000000004DC8B4E40000000000000D16
+t1304999140
+s3350
+
+N/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/rome.png
+c000000004DC8B4F10000000000000B64
+t1304999153
+s2916
+
+N/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/switzerland.png
+c000000004DC8B5010000000000000CB9
+t1304999169
+s3257
+
+N/Users/macbook/Documents/Tmp/Final/NavigateImageTable/Classes/CountriesViewController.h
+c000000004DCB78AB0000000000000192
+t1305180331
+s402
+i<UIKit/UIKit.h>
+i"FlagViewController.h"
+
+N/Users/macbook/Documents/Tmp/Final/NavigateImageTable/Classes/CountriesViewController.m
+c000000004DCB81F700000000000009D6
+t1305182711
+s2518
+i"CountriesViewController.h"
+
+N/Users/macbook/Documents/Tmp/Final/NavigateImageTable/Classes/FlagViewController.h
+c000000004DCB81E60000000000000130
+t1305182694
+s304
+i<UIKit/UIKit.h>
+
+N/Users/macbook/Documents/Tmp/Final/NavigateImageTable/Classes/FlagViewController.m
+c000000004DCB78D20000000000000354
+t1305180370
+s852
+i"FlagViewController.h"
+
+N/Users/macbook/Documents/Tmp/Final/NavigateImageTable/Classes/NavigateImageTableAppDelegate.h
+c000000004DCB7831000000000000028B
+t1305180209
+s651
+i<UIKit/UIKit.h>
+i"CountriesViewController.h"
+
+N/Users/macbook/Documents/Tmp/Final/NavigateImageTable/Classes/NavigateImageTableAppDelegate.m
+c000000004DCB78330000000000000B04
+t1305180211
+s2820
+i"NavigateImageTableAppDelegate.h"
+
+N/Users/macbook/Documents/Tmp/Final/NavigateImageTable/MainWindow.xib
+c000000004DCB4A3A000000000000213F
+t1305168442
+s8511
+
+N/Users/macbook/Documents/Tmp/Final/NavigateImageTable/NavigateImageTable_Prefix.pch
+c000000004DCB4A3A00000000000000CD
+t1305168442
+s205
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app
+t1305182696
+s476
+
+N/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app.dSYM
+t1305182696
+s102
+
+N/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/Info.plist
+t1305168674
+s641
+
+N/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/MainWindow.nib
+t1305168677
+s995
+
+N/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/NavigateImageTable
+t1305182696
+s25072
+
+N/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/PkgInfo
+t1305168674
+s8
+
+N/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/greece.png
+t1305179955
+s1731
+
+N/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/greenland.png
+t1305179955
+s2365
+
+N/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/iceland.png
+t1305179955
+s1483
+
+N/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/ireland.png
+t1305179955
+s1011
+
+N/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/newzealand.png
+t1305179955
+s3706
+
+N/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/norway.png
+t1305179955
+s3350
+
+N/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/rome.png
+t1305179955
+s2916
+
+N/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/switzerland.png
+t1305179955
+s3257
+
+N/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/CountriesViewController.o
+t1305182696
+s50936
+
+N/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/FlagViewController.o
+t1305182696
+s40472
+
+N/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/NavigateImageTable.LinkFileList
+c000000004DCB4DBF00000000000002B6
+t1305169343
+s694
+
+N/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/NavigateImageTableAppDelegate.o
+t1305182696
+s55676
+
+N/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/main.o
+t1305168682
+s6332
+
+N/Users/macbook/Documents/Tmp/Final/NavigateImageTable/greece.png
+c000000004DC8B49D00000000000006C3
+t1304999069
+s1731
+
+N/Users/macbook/Documents/Tmp/Final/NavigateImageTable/greenland.png
+c000000004DC8B4AE000000000000093D
+t1304999086
+s2365
+
+N/Users/macbook/Documents/Tmp/Final/NavigateImageTable/iceland.png
+c000000004DC8B4BE00000000000005CB
+t1304999102
+s1483
+
+N/Users/macbook/Documents/Tmp/Final/NavigateImageTable/ireland.png
+c000000004DC8B4CB00000000000003F3
+t1304999115
+s1011
+
+N/Users/macbook/Documents/Tmp/Final/NavigateImageTable/main.m
+c000000004DCB4A3A000000000000016F
+t1305168442
+s367
+i<UIKit/UIKit.h>
+
+N/Users/macbook/Documents/Tmp/Final/NavigateImageTable/newzealand.png
+c000000004DC8B4D90000000000000E7A
+t1304999129
+s3706
+
+N/Users/macbook/Documents/Tmp/Final/NavigateImageTable/norway.png
+c000000004DC8B4E40000000000000D16
+t1304999140
+s3350
+
+N/Users/macbook/Documents/Tmp/Final/NavigateImageTable/rome.png
+c000000004DC8B4F10000000000000B64
+t1304999153
+s2916
+
+N/Users/macbook/Documents/Tmp/Final/NavigateImageTable/switzerland.png
+c000000004DC8B5010000000000000CB9
+t1304999169
+s3257
+
+N/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/Classes/CountriesViewController.h
+c000000004DCB78AB0000000000000192
+t1305180331
+s402
+i<UIKit/UIKit.h>
+i"FlagViewController.h"
+
+N/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/Classes/CountriesViewController.m
+c000000004E1FDF13000000000000097E
+t1310711571
+s2430
+i"CountriesViewController.h"
+
+N/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/Classes/FlagViewController.h
+c000000004DCB81E60000000000000130
+t1305182694
+s304
+i<UIKit/UIKit.h>
+
+N/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/Classes/FlagViewController.m
+c000000004E02D2BD0000000000000352
+t1308807869
+s850
+i"FlagViewController.h"
+
+N/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/Classes/NavigateImageTableAppDelegate.h
+c000000004DD0C918000000000000028B
+t1305528600
+s651
+i<UIKit/UIKit.h>
+i"CountriesViewController.h"
+
+N/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/Classes/NavigateImageTableAppDelegate.m
+c000000004E23D15300000000000003D4
+t1310970195
+s980
+i"NavigateImageTableAppDelegate.h"
+
+N/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/MainWindow.xib
+c000000004DCB4A3A000000000000213F
+t1305168442
+s8511
+
+N/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/NavigateImageTable_Prefix.pch
+c000000004DCB4A3A00000000000000CD
+t1305168442
+s205
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app
+t1312195046
+s476
+
+N/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app.dSYM
+t1312195045
+s102
+
+N/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/Info.plist
+t1305168674
+s641
+
+N/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/MainWindow.nib
+t1305168677
+s995
+
+N/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/NavigateImageTable
+t1312195045
+s24160
+
+N/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/PkgInfo
+t1305168674
+s8
+
+N/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/greece.png
+t1305179955
+s1731
+
+N/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/greenland.png
+t1305179955
+s2365
+
+N/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/iceland.png
+t1305179955
+s1483
+
+N/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/ireland.png
+t1305179955
+s1011
+
+N/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/newzealand.png
+t1305179955
+s3706
+
+N/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/norway.png
+t1305179955
+s3350
+
+N/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/rome.png
+t1305179955
+s2916
+
+N/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/switzerland.png
+t1305179955
+s3257
+
+N/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/CountriesViewController.o
+t1312195045
+s50988
+
+N/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/FlagViewController.o
+t1312195045
+s40524
+
+N/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/NavigateImageTable.LinkFileList
+c000000004E02BBD0000000000000031E
+t1308802000
+s798
+
+N/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/NavigateImageTableAppDelegate.o
+t1312195045
+s53312
+
+N/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/main.o
+t1312195045
+s6384
+
+N/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/greece.png
+c000000004DC8B49D00000000000006C3
+t1304999069
+s1731
+
+N/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/greenland.png
+c000000004DC8B4AE000000000000093D
+t1304999086
+s2365
+
+N/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/iceland.png
+c000000004DC8B4BE00000000000005CB
+t1304999102
+s1483
+
+N/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/ireland.png
+c000000004DC8B4CB00000000000003F3
+t1304999115
+s1011
+
+N/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/main.m
+c000000004DCB4A3A000000000000016F
+t1305168442
+s367
+i<UIKit/UIKit.h>
+
+N/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/newzealand.png
+c000000004DC8B4D90000000000000E7A
+t1304999129
+s3706
+
+N/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/norway.png
+c000000004DC8B4E40000000000000D16
+t1304999140
+s3350
+
+N/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/rome.png
+c000000004DC8B4F10000000000000B64
+t1304999153
+s2916
+
+N/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/switzerland.png
+c000000004DC8B5010000000000000CB9
+t1304999169
+s3257
+
+N/var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigateImageTable_Prefix-alvbdvtlnrzgxjdvbsghntopzfbn/NavigateImageTable_Prefix.pch.gch
+t1312195045
+s15453392
+
+N/var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigateImageTable_Prefix-gykzwmbhmawevgdbsnostuezldkp/NavigateImageTable_Prefix.pch.gch
+t1305168682
+s15453392
+
+N/var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigateImageTable_Prefix-hfvrbddonuqknzbulrmoecpcytjp/NavigateImageTable_Prefix.pch.gch
+t1305525945
+s15453392
+
+NNavigateImageTable-Info.plist
+c000000004DCB4A3A000000000000038D
+t1305168442
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies333887843#333887844#0(0"0(0#1#0"8614120160#0"0#
+
+CCompileC build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/CountriesViewController.o "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/Classes/CountriesViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s327222260.018206
+e327222260.168229
+r1
+xCompileC
+xbuild/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/CountriesViewController.o
+x/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/Classes/CountriesViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/Classes/CountriesViewController.m327222260#327222260#0(0"0(0#0#101"/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/Classes/CountriesViewController.m8613707200#2521"    cd "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-generated-files.hmap" "-I/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-own-target-headers.hmap" "-I/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-all-target-headers.hmap" -iquote "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-project-headers.hmap" "-F/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator" "-I/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/include" "-I/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/DerivedSources/i386" "-I/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/DerivedSources" -include /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigateImageTable_Prefix-hfvrbddonuqknzbulrmoecpcytjp/NavigateImageTable_Prefix.pch -c "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/Classes/CountriesViewController.m" -o "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/CountriesViewController.o"0#
+
+CCompileC build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/CountriesViewController.o "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/Classes/CountriesViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s333887845.596637
+e333887845.789172
+r1
+xCompileC
+xbuild/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/CountriesViewController.o
+x/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/Classes/CountriesViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@121"Compile /Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/Classes/CountriesViewController.m333887845#333887845#0(0"0(0#0#113"/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/Classes/CountriesViewController.m8621569760#2653"    cd "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-generated-files.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-own-target-headers.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-all-target-headers.hmap" -iquote "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-project-headers.hmap" "-F/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator" "-I/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/include" "-I/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/DerivedSources/i386" "-I/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/DerivedSources" -include /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigateImageTable_Prefix-alvbdvtlnrzgxjdvbsghntopzfbn/NavigateImageTable_Prefix.pch -c "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/Classes/CountriesViewController.m" -o "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/CountriesViewController.o"0#
+
+CCompileC build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/CountriesViewController.o /Users/macbook/Documents/Tmp/Final/NavigateImageTable/Classes/CountriesViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326875496.376836
+e326875496.557517
+r1
+xCompileC
+xbuild/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/CountriesViewController.o
+x/Users/macbook/Documents/Tmp/Final/NavigateImageTable/Classes/CountriesViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/macbook/Documents/Tmp/Final/NavigateImageTable/Classes/CountriesViewController.m326875496#326875496#0(0"0(0#0#87"/Users/macbook/Documents/Tmp/Final/NavigateImageTable/Classes/CountriesViewController.m8605342944#2345"    cd /Users/macbook/Documents/Tmp/Final/NavigateImageTable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-generated-files.hmap -I/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-own-target-headers.hmap -I/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-all-target-headers.hmap -iquote /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-project-headers.hmap -F/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator -I/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/include -I/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/DerivedSources/i386 -I/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/DerivedSources -include /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigateImageTable_Prefix-gykzwmbhmawevgdbsnostuezldkp/NavigateImageTable_Prefix.pch -c /Users/macbook/Documents/Tmp/Final/NavigateImageTable/Classes/CountriesViewController.m -o /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/CountriesViewController.o0#
+
+CCompileC build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/FlagViewController.o "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/Classes/FlagViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s327222260.168432
+e327222260.340631
+r1
+xCompileC
+xbuild/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/FlagViewController.o
+x/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/Classes/FlagViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/Classes/FlagViewController.m327222260#327222260#0(0"0(0#0#96"/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/Classes/FlagViewController.m8608259680#2511"    cd "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-generated-files.hmap" "-I/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-own-target-headers.hmap" "-I/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-all-target-headers.hmap" -iquote "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-project-headers.hmap" "-F/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator" "-I/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/include" "-I/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/DerivedSources/i386" "-I/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/DerivedSources" -include /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigateImageTable_Prefix-hfvrbddonuqknzbulrmoecpcytjp/NavigateImageTable_Prefix.pch -c "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/Classes/FlagViewController.m" -o "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/FlagViewController.o"0#
+
+CCompileC build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/FlagViewController.o "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/Classes/FlagViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s333887845.789450
+e333887845.880953
+r1
+xCompileC
+xbuild/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/FlagViewController.o
+x/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/Classes/FlagViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@116"Compile /Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/Classes/FlagViewController.m333887845#333887845#0(0"0(0#0#108"/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/Classes/FlagViewController.m8615844352#2643"    cd "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-generated-files.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-own-target-headers.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-all-target-headers.hmap" -iquote "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-project-headers.hmap" "-F/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator" "-I/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/include" "-I/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/DerivedSources/i386" "-I/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/DerivedSources" -include /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigateImageTable_Prefix-alvbdvtlnrzgxjdvbsghntopzfbn/NavigateImageTable_Prefix.pch -c "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/Classes/FlagViewController.m" -o "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/FlagViewController.o"0#
+
+CCompileC build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/FlagViewController.o /Users/macbook/Documents/Tmp/Final/NavigateImageTable/Classes/FlagViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326875496.557707
+e326875496.635850
+r1
+xCompileC
+xbuild/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/FlagViewController.o
+x/Users/macbook/Documents/Tmp/Final/NavigateImageTable/Classes/FlagViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/macbook/Documents/Tmp/Final/NavigateImageTable/Classes/FlagViewController.m326875496#326875496#0(0"0(0#0#82"/Users/macbook/Documents/Tmp/Final/NavigateImageTable/Classes/FlagViewController.m8608296096#2335"    cd /Users/macbook/Documents/Tmp/Final/NavigateImageTable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-generated-files.hmap -I/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-own-target-headers.hmap -I/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-all-target-headers.hmap -iquote /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-project-headers.hmap -F/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator -I/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/include -I/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/DerivedSources/i386 -I/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/DerivedSources -include /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigateImageTable_Prefix-gykzwmbhmawevgdbsnostuezldkp/NavigateImageTable_Prefix.pch -c /Users/macbook/Documents/Tmp/Final/NavigateImageTable/Classes/FlagViewController.m -o /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/FlagViewController.o0#
+
+CCompileC build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/NavigateImageTableAppDelegate.o "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/Classes/NavigateImageTableAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s327222141.583915
+e327222141.919514
+r1
+xCompileC
+xbuild/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/NavigateImageTableAppDelegate.o
+x/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/Classes/NavigateImageTableAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@115"Compile /Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/Classes/NavigateImageTableAppDelegate.m327222141#327222141#0(0"0(0#0#107"/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/Classes/NavigateImageTableAppDelegate.m8616017504#2533"    cd "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-generated-files.hmap" "-I/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-own-target-headers.hmap" "-I/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-all-target-headers.hmap" -iquote "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-project-headers.hmap" "-F/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator" "-I/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/include" "-I/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/DerivedSources/i386" "-I/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/DerivedSources" -include /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigateImageTable_Prefix-hfvrbddonuqknzbulrmoecpcytjp/NavigateImageTable_Prefix.pch -c "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/Classes/NavigateImageTableAppDelegate.m" -o "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/NavigateImageTableAppDelegate.o"0#
+
+CCompileC build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/NavigateImageTableAppDelegate.o "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/Classes/NavigateImageTableAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s333887845.507301
+e333887845.596400
+r1
+xCompileC
+xbuild/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/NavigateImageTableAppDelegate.o
+x/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/Classes/NavigateImageTableAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@127"Compile /Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/Classes/NavigateImageTableAppDelegate.m333887845#333887845#0(0"0(0#0#119"/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/Classes/NavigateImageTableAppDelegate.m8649253152#2665"    cd "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-generated-files.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-own-target-headers.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-all-target-headers.hmap" -iquote "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-project-headers.hmap" "-F/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator" "-I/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/include" "-I/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/DerivedSources/i386" "-I/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/DerivedSources" -include /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigateImageTable_Prefix-alvbdvtlnrzgxjdvbsghntopzfbn/NavigateImageTable_Prefix.pch -c "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/Classes/NavigateImageTableAppDelegate.m" -o "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/NavigateImageTableAppDelegate.o"0#
+
+CCompileC build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/NavigateImageTableAppDelegate.o /Users/macbook/Documents/Tmp/Final/NavigateImageTable/Classes/NavigateImageTableAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326875494.933463
+e326875496.376688
+r1
+xCompileC
+xbuild/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/NavigateImageTableAppDelegate.o
+x/Users/macbook/Documents/Tmp/Final/NavigateImageTable/Classes/NavigateImageTableAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/macbook/Documents/Tmp/Final/NavigateImageTable/Classes/NavigateImageTableAppDelegate.m326875494#326875496#0(0"0(0#0#93"/Users/macbook/Documents/Tmp/Final/NavigateImageTable/Classes/NavigateImageTableAppDelegate.m8606450496#2357"    cd /Users/macbook/Documents/Tmp/Final/NavigateImageTable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-generated-files.hmap -I/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-own-target-headers.hmap -I/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-all-target-headers.hmap -iquote /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-project-headers.hmap -F/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator -I/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/include -I/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/DerivedSources/i386 -I/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/DerivedSources -include /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigateImageTable_Prefix-gykzwmbhmawevgdbsnostuezldkp/NavigateImageTable_Prefix.pch -c /Users/macbook/Documents/Tmp/Final/NavigateImageTable/Classes/NavigateImageTableAppDelegate.m -o /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/NavigateImageTableAppDelegate.o0#
+
+CCompileC build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/main.o "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s327218746.123301
+e327218746.534632
+r1
+xCompileC
+xbuild/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/main.o
+x/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/main.m327218746#327218746#0(0"0(0#0#74"/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/main.m8614647808#2475"    cd "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-generated-files.hmap" "-I/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-own-target-headers.hmap" "-I/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-all-target-headers.hmap" -iquote "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-project-headers.hmap" "-F/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator" "-I/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/include" "-I/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/DerivedSources/i386" "-I/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/DerivedSources" -include /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigateImageTable_Prefix-hfvrbddonuqknzbulrmoecpcytjp/NavigateImageTable_Prefix.pch -c "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/main.m" -o "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/main.o "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s333887845.401350
+e333887845.507144
+r1
+xCompileC
+xbuild/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/main.o
+x/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/main.m333887845#333887845#0(0"0(0#0#86"/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/main.m8621954752#2607"    cd "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-generated-files.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-own-target-headers.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-all-target-headers.hmap" -iquote "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-project-headers.hmap" "-F/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator" "-I/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/include" "-I/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/DerivedSources/i386" "-I/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/DerivedSources" -include /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigateImageTable_Prefix-alvbdvtlnrzgxjdvbsghntopzfbn/NavigateImageTable_Prefix.pch -c "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/main.m" -o "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/main.o /Users/macbook/Documents/Tmp/Final/NavigateImageTable/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326861482.580844
+e326861482.790797
+r1
+xCompileC
+xbuild/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/main.o
+x/Users/macbook/Documents/Tmp/Final/NavigateImageTable/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/macbook/Documents/Tmp/Final/NavigateImageTable/main.m326861482#326861482#0(0"0(0#0#60"/Users/macbook/Documents/Tmp/Final/NavigateImageTable/main.m8615636000#2299"    cd /Users/macbook/Documents/Tmp/Final/NavigateImageTable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-generated-files.hmap -I/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-own-target-headers.hmap -I/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-all-target-headers.hmap -iquote /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-project-headers.hmap -F/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator -I/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/include -I/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/DerivedSources/i386 -I/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/DerivedSources -include /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigateImageTable_Prefix-gykzwmbhmawevgdbsnostuezldkp/NavigateImageTable_Prefix.pch -c /Users/macbook/Documents/Tmp/Final/NavigateImageTable/main.m -o /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/main.o0#
+
+CCompileXIB "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/MainWindow.xib"
+r0
+
+CCompileXIB /Users/macbook/Documents/Tmp/Final/NavigateImageTable/MainWindow.xib
+s326861474.354306
+e326861477.842371
+r1
+xCompileXIB
+x/Users/macbook/Documents/Tmp/Final/NavigateImageTable/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib326861474#326861477#0(0"0(0#0#68"/Users/macbook/Documents/Tmp/Final/NavigateImageTable/MainWindow.xib8615400480#626"    cd /Users/macbook/Documents/Tmp/Final/NavigateImageTable    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/MainWindow.nib /Users/macbook/Documents/Tmp/Final/NavigateImageTable/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/NavigateImageTable.app/greece.png greece.png
+s326872755.101651
+e326872755.196584
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NavigateImageTable.app/greece.png
+xgreece.png
+lSLF07#2@15"Copy greece.png326872755#326872755#0(0"0(0#0#64"/Users/macbook/Documents/Tmp/Final/NavigateImageTable/greece.png8617668000#524"    cd /Users/macbook/Documents/Tmp/Final/NavigateImageTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbook/Documents/Tmp/Final/NavigateImageTable/greece.png /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app0#
+
+CCpResource build/Debug-iphonesimulator/NavigateImageTable.app/greenland.png greenland.png
+s326872755.102561
+e326872755.196770
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NavigateImageTable.app/greenland.png
+xgreenland.png
+lSLF07#2@18"Copy greenland.png326872755#326872755#0(0"0(0#0#67"/Users/macbook/Documents/Tmp/Final/NavigateImageTable/greenland.png8617072736#527"    cd /Users/macbook/Documents/Tmp/Final/NavigateImageTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbook/Documents/Tmp/Final/NavigateImageTable/greenland.png /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app0#
+
+CCpResource build/Debug-iphonesimulator/NavigateImageTable.app/iceland.png iceland.png
+s326872755.103312
+e326872755.196930
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NavigateImageTable.app/iceland.png
+xiceland.png
+lSLF07#2@16"Copy iceland.png326872755#326872755#0(0"0(0#0#65"/Users/macbook/Documents/Tmp/Final/NavigateImageTable/iceland.png8616383296#525"    cd /Users/macbook/Documents/Tmp/Final/NavigateImageTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbook/Documents/Tmp/Final/NavigateImageTable/iceland.png /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app0#
+
+CCpResource build/Debug-iphonesimulator/NavigateImageTable.app/ireland.png ireland.png
+s326872755.104064
+e326872755.197951
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NavigateImageTable.app/ireland.png
+xireland.png
+lSLF07#2@16"Copy ireland.png326872755#326872755#0(0"0(0#0#65"/Users/macbook/Documents/Tmp/Final/NavigateImageTable/ireland.png8612148800#525"    cd /Users/macbook/Documents/Tmp/Final/NavigateImageTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbook/Documents/Tmp/Final/NavigateImageTable/ireland.png /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app0#
+
+CCpResource build/Debug-iphonesimulator/NavigateImageTable.app/newzealand.png newzealand.png
+s326872755.104926
+e326872755.197141
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NavigateImageTable.app/newzealand.png
+xnewzealand.png
+lSLF07#2@19"Copy newzealand.png326872755#326872755#0(0"0(0#0#68"/Users/macbook/Documents/Tmp/Final/NavigateImageTable/newzealand.png8608313600#528"    cd /Users/macbook/Documents/Tmp/Final/NavigateImageTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbook/Documents/Tmp/Final/NavigateImageTable/newzealand.png /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app0#
+
+CCpResource build/Debug-iphonesimulator/NavigateImageTable.app/norway.png norway.png
+s326872755.105870
+e326872755.198156
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NavigateImageTable.app/norway.png
+xnorway.png
+lSLF07#2@15"Copy norway.png326872755#326872755#0(0"0(0#0#64"/Users/macbook/Documents/Tmp/Final/NavigateImageTable/norway.png8616299008#524"    cd /Users/macbook/Documents/Tmp/Final/NavigateImageTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbook/Documents/Tmp/Final/NavigateImageTable/norway.png /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app0#
+
+CCpResource build/Debug-iphonesimulator/NavigateImageTable.app/rome.png rome.png
+s326872755.106687
+e326872755.197669
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NavigateImageTable.app/rome.png
+xrome.png
+lSLF07#2@13"Copy rome.png326872755#326872755#0(0"0(0#0#62"/Users/macbook/Documents/Tmp/Final/NavigateImageTable/rome.png8590197952#522"    cd /Users/macbook/Documents/Tmp/Final/NavigateImageTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbook/Documents/Tmp/Final/NavigateImageTable/rome.png /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app0#
+
+CCpResource build/Debug-iphonesimulator/NavigateImageTable.app/switzerland.png switzerland.png
+s326872755.108030
+e326872755.198343
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NavigateImageTable.app/switzerland.png
+xswitzerland.png
+lSLF07#2@20"Copy switzerland.png326872755#326872755#0(0"0(0#0#69"/Users/macbook/Documents/Tmp/Final/NavigateImageTable/switzerland.png8616379136#529"    cd /Users/macbook/Documents/Tmp/Final/NavigateImageTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbook/Documents/Tmp/Final/NavigateImageTable/switzerland.png /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app0#
+
+CGenerateDSYMFile "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app.dSYM" "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/NavigateImageTable"
+s327222260.405019
+e327222260.440791
+r1
+xGenerateDSYMFile
+x/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app.dSYM
+x/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/NavigateImageTable
+lSLF07#2@142"GenerateDSYMFile build/Debug-iphonesimulator/NavigateImageTable.app.dSYM build/Debug-iphonesimulator/NavigateImageTable.app/NavigateImageTable327222260#327222260#0(0"0(0#0#137"/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/NavigateImageTable8615834272#509"    cd "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/NavigateImageTable" -o "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app.dSYM" "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/NavigateImageTable"
+s333887845.948917
+e333887846.012889
+r1
+xGenerateDSYMFile
+x/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app.dSYM
+x/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/NavigateImageTable
+lSLF07#2@142"GenerateDSYMFile build/Debug-iphonesimulator/NavigateImageTable.app.dSYM build/Debug-iphonesimulator/NavigateImageTable.app/NavigateImageTable333887845#333887846#0(0"0(0#0#149"/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/NavigateImageTable8622684864#545"    cd "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/NavigateImageTable" -o "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app.dSYM"0#
+
+CGenerateDSYMFile /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app.dSYM /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/NavigateImageTable
+s326875496.676890
+e326875496.720837
+r1
+xGenerateDSYMFile
+x/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app.dSYM
+x/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/NavigateImageTable
+lSLF07#2@142"GenerateDSYMFile build/Debug-iphonesimulator/NavigateImageTable.app.dSYM build/Debug-iphonesimulator/NavigateImageTable.app/NavigateImageTable326875496#326875496#0(0"0(0#0#123"/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/NavigateImageTable8606177472#461"    cd /Users/macbook/Documents/Tmp/Final/NavigateImageTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/NavigateImageTable -o /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app.dSYM0#
+
+CLd "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/NavigateImageTable" normal i386
+s327222260.340790
+e327222260.404842
+r1
+xLd
+x/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/NavigateImageTable
+xnormal
+xi386
+lSLF07#2@142"Link /Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/NavigateImageTable327222260#327222260#0(0"0(0#0#0"8617572416#1110"    cd "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator" "-F/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator" -filelist "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/NavigateImageTable.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/NavigateImageTable"0#
+
+CLd "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/NavigateImageTable" normal i386
+s333887845.881068
+e333887845.948787
+r1
+xLd
+x/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/NavigateImageTable
+xnormal
+xi386
+lSLF07#2@154"Link /Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/NavigateImageTable333887845#333887845#0(0"0(0#0#0"8615029504#1170"    cd "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator" "-F/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator" -filelist "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/NavigateImageTable.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/NavigateImageTable"0#
+
+CLd /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/NavigateImageTable normal i386
+s326875496.635954
+e326875496.676764
+r1
+xLd
+x/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/NavigateImageTable
+xnormal
+xi386
+lSLF07#2@128"Link /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/NavigateImageTable326875496#326875496#0(0"0(0#0#0"8606290944#1030"    cd /Users/macbook/Documents/Tmp/Final/NavigateImageTable    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator -F/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator -filelist /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/Objects-normal/i386/NavigateImageTable.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/NavigateImageTable0#
+
+CProcessInfoPlistFile "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/Info.plist" NavigateImageTable-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/Info.plist" NavigateImageTable-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/Info.plist NavigateImageTable-Info.plist
+s326861474.306021
+e326861474.354206
+r1
+xProcessInfoPlistFile
+x/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/Info.plist
+xNavigateImageTable-Info.plist
+lSLF07#2@37"Process NavigateImageTable-Info.plist326861474#326861474#0(0"0(0#0#83"/Users/macbook/Documents/Tmp/Final/NavigateImageTable/NavigateImageTable-Info.plist8615087680#557"    cd /Users/macbook/Documents/Tmp/Final/NavigateImageTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility NavigateImageTable-Info.plist -genpkginfo /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app/Info.plist0#
+
+CProcessPCH /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigateImageTable_Prefix-alvbdvtlnrzgxjdvbsghntopzfbn/NavigateImageTable_Prefix.pch.gch NavigateImageTable_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s333887844.024443
+e333887845.401166
+r1
+xProcessPCH
+x/var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigateImageTable_Prefix-alvbdvtlnrzgxjdvbsghntopzfbn/NavigateImageTable_Prefix.pch.gch
+xNavigateImageTable_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile NavigateImageTable_Prefix.pch333887844#333887845#0(0"0(0#0#109"/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/NavigateImageTable_Prefix.pch8649060224#2445"    cd "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-generated-files.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-own-target-headers.hmap" "-I/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-all-target-headers.hmap" -iquote "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-project-headers.hmap" "-F/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator" "-I/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/include" "-I/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/DerivedSources/i386" "-I/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/DerivedSources" -c "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/NavigateImageTable_Prefix.pch" -o /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigateImageTable_Prefix-alvbdvtlnrzgxjdvbsghntopzfbn/NavigateImageTable_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigateImageTable_Prefix-gykzwmbhmawevgdbsnostuezldkp/NavigateImageTable_Prefix.pch.gch NavigateImageTable_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s326861477.842564
+e326861482.580664
+r1
+xProcessPCH
+x/var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigateImageTable_Prefix-gykzwmbhmawevgdbsnostuezldkp/NavigateImageTable_Prefix.pch.gch
+xNavigateImageTable_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile NavigateImageTable_Prefix.pch326861477#326861482#0(0"0(0#0#83"/Users/macbook/Documents/Tmp/Final/NavigateImageTable/NavigateImageTable_Prefix.pch8616215136#2165"    cd /Users/macbook/Documents/Tmp/Final/NavigateImageTable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-generated-files.hmap -I/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-own-target-headers.hmap -I/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-all-target-headers.hmap -iquote /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-project-headers.hmap -F/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator -I/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/include -I/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/DerivedSources/i386 -I/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/DerivedSources -c /Users/macbook/Documents/Tmp/Final/NavigateImageTable/NavigateImageTable_Prefix.pch -o /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigateImageTable_Prefix-gykzwmbhmawevgdbsnostuezldkp/NavigateImageTable_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigateImageTable_Prefix-hfvrbddonuqknzbulrmoecpcytjp/NavigateImageTable_Prefix.pch.gch NavigateImageTable_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s327218741.026893
+e327218746.122991
+r1
+xProcessPCH
+x/var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigateImageTable_Prefix-hfvrbddonuqknzbulrmoecpcytjp/NavigateImageTable_Prefix.pch.gch
+xNavigateImageTable_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile NavigateImageTable_Prefix.pch327218741#327218746#0(0"0(0#0#97"/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/NavigateImageTable_Prefix.pch8598905760#2325"    cd "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-generated-files.hmap" "-I/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-own-target-headers.hmap" "-I/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-all-target-headers.hmap" -iquote "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/NavigateImageTable-project-headers.hmap" "-F/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator" "-I/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/include" "-I/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/DerivedSources/i386" "-I/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/NavigateImageTable.build/Debug-iphonesimulator/NavigateImageTable.build/DerivedSources" -c "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/NavigateImageTable_Prefix.pch" -o /var/folders/+Z/+ZJJAKEVH9GUb+8OOfr1OE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavigateImageTable_Prefix-hfvrbddonuqknzbulrmoecpcytjp/NavigateImageTable_Prefix.pch.gch0#
+
+CTouch "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app"
+s327222260.440950
+e327222260.445861
+r1
+xTouch
+x/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app
+lSLF07#2@124"Touch /Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app327222260#327222260#0(0"0(0#0#0"8615402976#351"    cd "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/macbook/Documents/Tmp/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app"0#
+
+CTouch "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app"
+s333887846.013023
+e333887846.017168
+r1
+xTouch
+x/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app
+lSLF07#2@136"Touch /Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app333887846#333887846#0(0"0(0#0#0"8616730816#375"    cd "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/macbook/Documents/Tmp/Native Apps/Final [Set 1 12May]/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app"0#
+
+CTouch /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app
+s326875496.720944
+e326875496.724058
+r1
+xTouch
+x/Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app
+lSLF07#2@110"Touch /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app326875496#326875496#0(0"0(0#0#0"8605802688#319"    cd /Users/macbook/Documents/Tmp/Final/NavigateImageTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/macbook/Documents/Tmp/Final/NavigateImageTable/build/Debug-iphonesimulator/NavigateImageTable.app0#
+

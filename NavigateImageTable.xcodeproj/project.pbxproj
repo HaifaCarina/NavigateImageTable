@@ -1,0 +1,292 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* NavigateImageTableAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* NavigateImageTableAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		FA9145DA137B81FB0057D74D /* CountriesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA9145D9137B81FB0057D74D /* CountriesViewController.m */; };
+		FA9145E3137B84290057D74D /* FlagViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA9145E2137B84290057D74D /* FlagViewController.m */; };
+		FA91477F137BAEAF0057D74D /* greece.png in Resources */ = {isa = PBXBuildFile; fileRef = FA914777137BAEAF0057D74D /* greece.png */; };
+		FA914780137BAEAF0057D74D /* greenland.png in Resources */ = {isa = PBXBuildFile; fileRef = FA914778137BAEAF0057D74D /* greenland.png */; };
+		FA914781137BAEAF0057D74D /* iceland.png in Resources */ = {isa = PBXBuildFile; fileRef = FA914779137BAEAF0057D74D /* iceland.png */; };
+		FA914782137BAEAF0057D74D /* ireland.png in Resources */ = {isa = PBXBuildFile; fileRef = FA91477A137BAEAF0057D74D /* ireland.png */; };
+		FA914783137BAEAF0057D74D /* newzealand.png in Resources */ = {isa = PBXBuildFile; fileRef = FA91477B137BAEAF0057D74D /* newzealand.png */; };
+		FA914784137BAEAF0057D74D /* norway.png in Resources */ = {isa = PBXBuildFile; fileRef = FA91477C137BAEAF0057D74D /* norway.png */; };
+		FA914785137BAEAF0057D74D /* rome.png in Resources */ = {isa = PBXBuildFile; fileRef = FA91477D137BAEAF0057D74D /* rome.png */; };
+		FA914786137BAEAF0057D74D /* switzerland.png in Resources */ = {isa = PBXBuildFile; fileRef = FA91477E137BAEAF0057D74D /* switzerland.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* NavigateImageTableAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NavigateImageTableAppDelegate.h; sourceTree = "<group>"; wrapsLines = 1; };
+		1D3623250D0F684500981E51 /* NavigateImageTableAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NavigateImageTableAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* NavigateImageTable.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NavigateImageTable.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* NavigateImageTable_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NavigateImageTable_Prefix.pch; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* NavigateImageTable-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "NavigateImageTable-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		FA9145D8137B81FB0057D74D /* CountriesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CountriesViewController.h; sourceTree = "<group>"; };
+		FA9145D9137B81FB0057D74D /* CountriesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CountriesViewController.m; sourceTree = "<group>"; };
+		FA9145E1137B84290057D74D /* FlagViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FlagViewController.h; sourceTree = "<group>"; };
+		FA9145E2137B84290057D74D /* FlagViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FlagViewController.m; sourceTree = "<group>"; };
+		FA914777137BAEAF0057D74D /* greece.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = greece.png; sourceTree = "<group>"; };
+		FA914778137BAEAF0057D74D /* greenland.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = greenland.png; sourceTree = "<group>"; };
+		FA914779137BAEAF0057D74D /* iceland.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iceland.png; sourceTree = "<group>"; };
+		FA91477A137BAEAF0057D74D /* ireland.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ireland.png; sourceTree = "<group>"; };
+		FA91477B137BAEAF0057D74D /* newzealand.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = newzealand.png; sourceTree = "<group>"; };
+		FA91477C137BAEAF0057D74D /* norway.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = norway.png; sourceTree = "<group>"; };
+		FA91477D137BAEAF0057D74D /* rome.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rome.png; sourceTree = "<group>"; };
+		FA91477E137BAEAF0057D74D /* switzerland.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = switzerland.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				FA9145E1137B84290057D74D /* FlagViewController.h */,
+				FA9145E2137B84290057D74D /* FlagViewController.m */,
+				FA9145D8137B81FB0057D74D /* CountriesViewController.h */,
+				FA9145D9137B81FB0057D74D /* CountriesViewController.m */,
+				1D3623240D0F684500981E51 /* NavigateImageTableAppDelegate.h */,
+				1D3623250D0F684500981E51 /* NavigateImageTableAppDelegate.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* NavigateImageTable.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* NavigateImageTable_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				FA914777137BAEAF0057D74D /* greece.png */,
+				FA914778137BAEAF0057D74D /* greenland.png */,
+				FA914779137BAEAF0057D74D /* iceland.png */,
+				FA91477A137BAEAF0057D74D /* ireland.png */,
+				FA91477B137BAEAF0057D74D /* newzealand.png */,
+				FA91477C137BAEAF0057D74D /* norway.png */,
+				FA91477D137BAEAF0057D74D /* rome.png */,
+				FA91477E137BAEAF0057D74D /* switzerland.png */,
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* NavigateImageTable-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* NavigateImageTable */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "NavigateImageTable" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = NavigateImageTable;
+			productName = NavigateImageTable;
+			productReference = 1D6058910D05DD3D006BFB54 /* NavigateImageTable.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "NavigateImageTable" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* NavigateImageTable */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				FA91477F137BAEAF0057D74D /* greece.png in Resources */,
+				FA914780137BAEAF0057D74D /* greenland.png in Resources */,
+				FA914781137BAEAF0057D74D /* iceland.png in Resources */,
+				FA914782137BAEAF0057D74D /* ireland.png in Resources */,
+				FA914783137BAEAF0057D74D /* newzealand.png in Resources */,
+				FA914784137BAEAF0057D74D /* norway.png in Resources */,
+				FA914785137BAEAF0057D74D /* rome.png in Resources */,
+				FA914786137BAEAF0057D74D /* switzerland.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* NavigateImageTableAppDelegate.m in Sources */,
+				FA9145DA137B81FB0057D74D /* CountriesViewController.m in Sources */,
+				FA9145E3137B84290057D74D /* FlagViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = NavigateImageTable_Prefix.pch;
+				INFOPLIST_FILE = "NavigateImageTable-Info.plist";
+				PRODUCT_NAME = NavigateImageTable;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = NavigateImageTable_Prefix.pch;
+				INFOPLIST_FILE = "NavigateImageTable-Info.plist";
+				PRODUCT_NAME = NavigateImageTable;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "NavigateImageTable" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "NavigateImageTable" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
